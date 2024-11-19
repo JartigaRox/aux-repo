@@ -1,0 +1,9 @@
+{
+	"co": {
+		"prefix": "co",
+		"body": [
+			"std::cout << <<;",
+		],
+		"description": "Generacion de estructura cout std"
+	}
+}

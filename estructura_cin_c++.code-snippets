@@ -1,0 +1,9 @@
+{
+	"ci": {
+		"prefix": "ci",
+		"body": [
+			"std::cin >> >>;",
+		],
+		"description": "Generacion de estructura cin std"
+	}
+}

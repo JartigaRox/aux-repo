@@ -1,0 +1,9 @@
+{
+	"co": {
+		"prefix": "str",
+		"body": [
+			"std::string ;",
+		],
+		"description": "Generacion de estructura cout std"
+	}
+}
